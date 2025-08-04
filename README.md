@@ -8,7 +8,7 @@ As the company enters the competitive world of movie production, this project an
 
 ## 🧠 Business Understanding
 
-Big-name companies are creating original video content and gaining huge market traction. Our company wants to do the same — but wisely.  
+Big-name companies are creating original video content and gaining huge market traction. Our company wants to do the same, but wisely.  
 We asked: **What kind of movies make the most money?**  
 By studying trends in budgets, profits, genres, and release years, we aim to make data-backed decisions on the types of films our new movie studio should invest in.
 
