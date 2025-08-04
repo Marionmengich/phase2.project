@@ -40,7 +40,7 @@ Using Python (Pandas, Matplotlib, Seaborn) and Tableau, I created the following 
    Mid-budget movies often yield higher ROI compared to high-budget ones.
 
 2. **Top 10 Movies by ROI**  
-   `Deep Throat` had the highest ROI — with a production budget of **$25,000** and a profit of **$44,975,000**.
+   `Deep Throat` had the highest ROI, with a production budget of **$25,000** and a profit of **$44,975,000**.
 
 3. **Profit Trend Over Time**  
    Movie production and profitability have generally increased from 1915 to 2020.
