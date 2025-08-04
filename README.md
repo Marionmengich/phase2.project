@@ -85,6 +85,14 @@ This analysis helps our studio understand what has worked historically. With the
 - Jupyter Notebook
 
 ---
+## 📌 Project Updates
+
+### 🗓️ August 2025
+
+- **[Merge]** Updated `.gitignore` and merged changes from `main`  
+  Merged branch `main` of [https://github.com/Marionmengich/phase2.project](https://github.com/Marionmengich/phase2.project) to include improvements to the `.gitignore` file.  
+  This helps prevent unnecessary files (e.g., `__pycache__/`, `.env`, `*.log`) from being tracked and keeps the repository clean.
+
 
 ## 🙌 Author
 
